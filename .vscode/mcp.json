@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "kicad-copilot": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "kicad-copilot-mcp"
+      ]
+    }
+  }
+}
