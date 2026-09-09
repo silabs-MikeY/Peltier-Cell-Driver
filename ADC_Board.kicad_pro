@@ -752,11 +752,6 @@
         "uuid": "291ed9c2-11d2-4657-bb4d-a852fc61e047"
       },
       {
-        "filename": "temperature_sensors.kicad_sch",
-        "name": "Temperature Sensors",
-        "uuid": "f284918d-18dc-4dc0-8f7b-5a9e31de380a"
-      },
-      {
         "filename": "pwm_driver.kicad_sch",
         "name": "PWM Driver",
         "uuid": "a6998454-3219-43c5-85ea-b974e718b0de"
@@ -765,9 +760,14 @@
         "filename": "outputs.kicad_sch",
         "name": "Outputs",
         "uuid": "1c5d070a-ffd0-423b-a405-f3ed0dbc8144"
+      },
+      {
+        "filename": "temperature_sensors.kicad_sch",
+        "name": "Temperature Sensors",
+        "uuid": "be57274f-a576-42ec-93d4-6fcd56cbce96"
       }
     ],
-    "used_designators": "J1-12,Q1-12,C1-59,U1-12,SW1,TP1-8,F1-9,D1-40,#PWR1-148,Y1-2,L1-7,H1-3,R1-87",
+    "used_designators": "J1-15,Q1-14,C1-68,U1-14,SW1,TP1-10,F1-10,D1-40,#PWR1-172,Y1-2,L1-8,H1-3,R1-100",
     "variants": []
   },
   "sheets": [
@@ -776,12 +776,16 @@
       "Root"
     ],
     [
-      "f284918d-18dc-4dc0-8f7b-5a9e31de380a",
-      "Temperature Sensors"
+      "18d59272-9cb5-4c13-806d-1a9a2122892c",
+      "Temperature_Sensor_5"
     ],
     [
       "a6998454-3219-43c5-85ea-b974e718b0de",
       "PWM Driver"
+    ],
+    [
+      "be57274f-a576-42ec-93d4-6fcd56cbce96",
+      "Temperature Sensors"
     ],
     [
       "a6ba1037-fe1f-46ce-8d9a-5725126c3eba",
@@ -802,6 +806,26 @@
     [
       "ad9e7116-fd12-4dc6-8842-20d325673285",
       "Output_3"
+    ],
+    [
+      "7898deb5-ce49-4e71-b0cc-55099d156088",
+      "Temperature_Sensor_2"
+    ],
+    [
+      "02d5e158-f441-4292-b3bf-aabfb18ce48a",
+      "Temperature_Sensor_1"
+    ],
+    [
+      "103bffc3-364b-4243-9a34-9db199abe03c",
+      "Temperature_Sensor_3"
+    ],
+    [
+      "0d138439-bcd7-414c-9478-2086369cf14b",
+      "Temperature_Sensor_4"
+    ],
+    [
+      "4bd21d69-a5e2-455d-a72c-c7e58c929c68",
+      "Temperature_Sensor_6"
     ]
   ],
   "text_variables": {},

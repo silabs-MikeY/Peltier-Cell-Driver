@@ -965,7 +965,7 @@
 			)
 		)
 	)
-	(global_label "ADC_1"
+	(global_label "ADC_MOTOR_CURRENT_1"
 		(shape input)
 		(at 127 40.64 0)
 		(fields_autoplaced yes)
@@ -977,7 +977,7 @@
 		)
 		(uuid "0ef4c2cc-eb5c-46cc-9d5f-a81730a42da1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.7909 40.64 0)
+			(at 152.6637 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1037,7 +1037,7 @@
 			)
 		)
 	)
-	(global_label "ADC_3"
+	(global_label "ADC_MOTOR_CURRENT_3"
 		(shape input)
 		(at 255.27 43.18 0)
 		(fields_autoplaced yes)
@@ -1049,7 +1049,7 @@
 		)
 		(uuid "550d8c88-2f93-4557-a4dc-603afed95b2f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 264.0609 43.18 0)
+			(at 280.9337 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1061,7 +1061,7 @@
 			)
 		)
 	)
-	(global_label "ADC_2"
+	(global_label "ADC_MOTOR_CURRENT_2"
 		(shape input)
 		(at 127 100.33 0)
 		(fields_autoplaced yes)
@@ -1073,7 +1073,7 @@
 		)
 		(uuid "56485260-242c-4fd5-8461-df4085115905")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.7909 100.33 0)
+			(at 152.6637 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1085,7 +1085,7 @@
 			)
 		)
 	)
-	(global_label "ADC_4"
+	(global_label "ADC_MOTOR_CURRENT_4"
 		(shape input)
 		(at 255.27 100.33 0)
 		(fields_autoplaced yes)
@@ -1097,7 +1097,7 @@
 		)
 		(uuid "5ed6eaf3-bf69-4eac-b04e-73c52530d671")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 264.0609 100.33 0)
+			(at 280.9337 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
