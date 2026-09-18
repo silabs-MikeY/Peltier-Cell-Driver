@@ -2723,7 +2723,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00396a45-d8ff-4140-93cb-b9d8eb042783")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR038"
 			(at 71.12 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -2783,7 +2783,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR069")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -2800,7 +2800,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0ec36688-5014-425e-b1af-3377c3ecd8a3")
-		(property "Reference" "R87"
+		(property "Reference" "R49"
 			(at 240.792 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2873,7 +2873,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "R87")
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -2891,7 +2891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "203ff69a-72b6-4187-9c89-18b62f2644a2")
-		(property "Reference" "#PWR0140"
+		(property "Reference" "#PWR048"
 			(at 237.49 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2951,7 +2951,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR0140")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -3098,7 +3098,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b42280b-539e-4362-b9d2-ac400ecf6519")
-		(property "Reference" "U8"
+		(property "Reference" "U11"
 			(at 144.78 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3209,7 +3209,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "U8")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -3227,7 +3227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e178dbb-a280-47c2-8be6-1a5a09d34ab1")
-		(property "Reference" "C28"
+		(property "Reference" "C35"
 			(at 74.93 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3302,7 +3302,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "C28")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -3320,7 +3320,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fca89e1-b240-4d05-a10b-191e01a97edb")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR041"
 			(at 120.65 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -3380,7 +3380,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR068")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -3398,7 +3398,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41bfb1cc-812e-45fc-8bd3-2744bc394975")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR040"
 			(at 120.65 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -3458,7 +3458,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR067")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -3476,7 +3476,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41cc4472-81d4-4bdc-b087-3f286d753169")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR037"
 			(at 52.07 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -3536,7 +3536,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR0138")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -3554,7 +3554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47c134f2-c38e-4797-bd93-7a8d81065e67")
-		(property "Reference" "#PWR0139"
+		(property "Reference" "#PWR049"
 			(at 238.76 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -3614,7 +3614,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR0139")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -3633,7 +3633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b3ae825-e270-421a-b9fe-b9c9eeaf58f0")
-		(property "Reference" "C26"
+		(property "Reference" "C38"
 			(at 214.63 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3708,7 +3708,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "C26")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -3725,7 +3725,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60bdcac9-cd2b-40e1-9a28-ede5dc54f1f5")
-		(property "Reference" "R31"
+		(property "Reference" "R40"
 			(at 60.96 56.642 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3798,7 +3798,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "R31")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -3815,7 +3815,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6b15570c-8013-4ada-9183-3b759bf986c5")
-		(property "Reference" "R29"
+		(property "Reference" "R48"
 			(at 60.96 90.932 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3888,7 +3888,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "R29")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -3907,7 +3907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d9fafb7-b9ec-44ba-9e27-0f43c33fa5c7")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR047"
 			(at 219.71 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -3967,7 +3967,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR050")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -3985,7 +3985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7eff6b19-d2f7-43aa-9a61-5e57522a10a7")
-		(property "Reference" "C25"
+		(property "Reference" "C32"
 			(at 175.26 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4060,7 +4060,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "C25")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -4077,7 +4077,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8a7d949e-1c02-410d-a655-6e3da10f68be")
-		(property "Reference" "R84"
+		(property "Reference" "R36"
 			(at 55.372 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4150,7 +4150,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "R84")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -4168,7 +4168,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "90cae004-b654-4e57-98e5-6dfcc3fe476f")
-		(property "Reference" "R28"
+		(property "Reference" "R46"
 			(at 228.6 93.472 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4241,7 +4241,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "R28")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -4259,7 +4259,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9244f0b4-1a0a-4823-97ab-0f9d9ab2b77a")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR036"
 			(at 52.07 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -4319,7 +4319,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR0133")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -4337,7 +4337,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "985ffec9-2d80-4325-bd0c-4ce77e0243eb")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR039"
 			(at 71.12 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -4397,7 +4397,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR052")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -4415,7 +4415,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2858df4-0f16-4f8f-92d6-751848cbad36")
-		(property "Reference" "R27"
+		(property "Reference" "R41"
 			(at 229.87 61.722 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4488,7 +4488,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "R27")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -4506,7 +4506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b30d348d-dee1-4ceb-ad78-532163be9b7f")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR044"
 			(at 182.88 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -4566,7 +4566,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR066")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -4584,7 +4584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b35fe410-666d-420e-9e3c-649637acd83e")
-		(property "Reference" "C24"
+		(property "Reference" "C40"
 			(at 175.26 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4659,7 +4659,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "C24")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -4677,7 +4677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5725658-c62e-4055-9a70-da8d6e258f13")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR045"
 			(at 182.88 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4737,7 +4737,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR065")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -4755,7 +4755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be9936a0-0117-4b16-b0be-7a80ff5583dd")
-		(property "Reference" "C27"
+		(property "Reference" "C39"
 			(at 74.93 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4830,7 +4830,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "C27")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -4847,7 +4847,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0720f70-518a-43a3-a5b6-4dbdbaec2b27")
-		(property "Reference" "R86"
+		(property "Reference" "R37"
 			(at 242.062 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4920,7 +4920,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "R86")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -4939,7 +4939,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf91eaa0-00c4-4e75-a6a7-ace4d4aa9f45")
-		(property "Reference" "C23"
+		(property "Reference" "C36"
 			(at 215.9 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5014,7 +5014,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "C23")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -5032,7 +5032,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2ab3ef4-291f-43dc-8570-9bcd6e81e338")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR043"
 			(at 171.45 127 0)
 			(hide yes)
 			(show_name no)
@@ -5092,7 +5092,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR063")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -5109,7 +5109,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8ad6867-2efa-4a75-b697-b86a5f3b7e6b")
-		(property "Reference" "R85"
+		(property "Reference" "R44"
 			(at 55.372 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5182,7 +5182,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "R85")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -5201,7 +5201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e673171c-dec6-4d39-b14b-0d470fab110d")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR046"
 			(at 218.44 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -5261,7 +5261,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR051")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -5279,7 +5279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0a12206-298f-4495-857b-acb7db5f10e2")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR042"
 			(at 171.45 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5339,7 +5339,7 @@
 		(instances
 			(project "ADC_Board"
 				(path "/a6998454-3219-43c5-85ea-b974e718b0de"
-					(reference "#PWR064")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
