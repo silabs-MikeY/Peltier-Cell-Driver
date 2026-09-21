@@ -1241,6 +1241,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C158012"
+			(at 90.17 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "733ea58f-0525-4498-a350-af4f9ffaff89")
 		)
@@ -1493,7 +1504,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "efbe4e10-f273-4824-99f4-ad81c8c4744e")
 		(property "Reference" "R79"

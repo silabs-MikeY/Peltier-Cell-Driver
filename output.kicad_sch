@@ -4293,7 +4293,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C7419996"
+		(property "LCSC Part #" "C253508"
 			(at 217.17 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -4340,7 +4340,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2ed19924-1a94-46e9-a24a-2ac9ce056456")
 		(property "Reference" "R51"
 			(at 125.222 102.87 90)
@@ -5089,7 +5089,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "46e6fbd9-224b-40b9-9a38-d9ee33566efe")
 		(property "Reference" "R38"
@@ -7620,7 +7620,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f0fdf713-e093-4eb4-abb6-ad80174a47f9")
 		(property "Reference" "R34"
