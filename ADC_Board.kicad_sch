@@ -7018,7 +7018,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0423aec4-7130-4596-9ff0-da80633ff3fc")
 		(property "Reference" "R24"
@@ -9288,7 +9288,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4daf397a-afe0-4583-afa6-02147c32cfc5")
 		(property "Reference" "R23"
@@ -10234,7 +10234,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b3c8a07-a342-4185-85f5-a8aa2edc95b0")
 		(property "Reference" "R27"
